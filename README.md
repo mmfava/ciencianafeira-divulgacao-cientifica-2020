@@ -26,6 +26,16 @@ Precisamos que você nos ajude a terminar de construir o “Ciência na Feira”
 
 O “Ciência na Feira” é um projeto aberto e editável por qualquer um que deseje colaborar com a sua formação. Assim, sinta-se à vontade em propor ou editar tópicos, ideias, imagens e afins. 
 
+### No que eu posso ajudar?
+
+Nesse momento precisamos de ajuda para os instrutivos do projeto. Especificamente:
+
+1.	_Como escrever o texto de DC?_
+Texto básico com dicas de como mudar de um texto técnico-científico para uma linguagem acessível ao público não científico. 
+
+2.	_Como montar um pôster voltando para a DC?_
+Guia instrutivo que fale sobre cores, imagens, opções e afins. 
+
 ## Idealizadores
 Flávia Pinheiro
 
