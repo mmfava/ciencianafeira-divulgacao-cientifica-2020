@@ -1,7 +1,7 @@
 # Apresentação
 Oiê! Bem vind_ ao nosso repositório! 
 
-Nós somos o “**Ciência na Feira**”, um projeto _open-source_ de divulgação científica (DC) pensado para acontecer em espaços públicos do nosso Brasil. A ideia do projeto é a de fazer DC com um material familiar aos pesquisadores, de custo relativamente baixo, de transporte fácil e que pode ser reutilizavél -- neste momento, o pôster/banner acadêmico. 
+Nós somos o “**Ciência na Feira**”, um projeto _open-source_ de divulgação científica (DC) pensado para acontecer em espaços públicos do nosso Brasil. A ideia do projeto é a de fazer DC com um material familiar aos pesquisadores, de custo relativamente baixo, de transporte fácil e que pode ser reutilizavél -- o pôster/banner acadêmico. 
 
 ![](https://github.com/mmfava/ciencianafeira/blob/master/imagens_repo/WhatsApp%20Image%202020-07-23%20at%2018.40.18.jpeg?raw=true)
 
