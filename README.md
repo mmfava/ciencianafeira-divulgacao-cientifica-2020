@@ -3,11 +3,11 @@ Oiê! Bem vind_ ao nosso repositório!
 
 Nós somos o “**Ciência na Feira**”, um projeto _open-source_ de divulgação científica (DC) pensado para acontecer em espaços públicos do nosso Brasil. A ideia do projeto é a de fazer DC com um material familiar aos pesquisadores, de custo relativamente baixo, de transporte fácil e que pode ser reutilizavél -- neste momento, o pôster/banner acadêmico. 
 
-(IMAGEM DE PESSOA COM PÔSTER). 
+![](https://github.com/mmfava/ciencianafeira/blob/master/imagens_repo/WhatsApp%20Image%202020-07-23%20at%2018.40.18.jpeg?raw=true)
 
 Sabe quando a gente vai nos eventos acadêmicos (semanas acadêmicas, simpósios, congressos e afins) e sempre têm uma área de exposição das pesquisas científicas em pôsteres? Pois então, a nossa ideia é replicar esse formato para os espaços públicos, com a diferença básica de que o conteúdo deverá ser produzido com finalidades de DC (evitar linguagem técnica, muito texto, imagens complexas, etc). 
 
-(IMAGEM DE PESSOAS EM UMA FEIRA E UM ESPAÇO COM APRESENAÇÃO DE POSTERES)
+![](https://github.com/mmfava/ciencianafeira/blob/master/imagens_repo/WhatsApp%20Image%202020-07-23%20at%2018.36.52%20(1).jpeg?raw=true)
 
 Para a divulgação de conhecimentos, o pôster deverá contar com ótimas ilustrações, título instigante e conteúdo pensado para diferentes idades dentro do tema de pesquisa do participante. A nossa única regra será lembrar que a apresentação será realizada para leigos nos assuntos, portanto deverá possuir uma linguagem clara e ser o mais didático possível. Quanto mais criativa e visual for a produção dos pôsteres, melhor.
 
