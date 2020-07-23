@@ -30,10 +30,10 @@ O “Ciência na Feira” é um projeto aberto e editável por qualquer um que d
 
 Nesse momento precisamos de ajuda para os instrutivos do projeto. Especificamente:
 
-1.	_Como escrever o texto de DC?_
+1.	_Como escrever um texto de DC?_
 Texto básico com dicas de como mudar de um texto técnico-científico para uma linguagem acessível ao público não científico. 
 
-2.	_Como montar um pôster voltando para a DC?_
+2.	_Como montar um pôster para a DC?_
 Guia instrutivo que fale sobre cores, imagens, opções e afins. 
 
 ## Idealizadores
