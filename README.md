@@ -42,7 +42,7 @@ Texto básico com dicas de como escrever um pequeno texto de DC sobre a própria
 * [_Como montar um pôster para a DC?_](https://github.com/mmfava/ciencianafeira/tree/master/Poster%20-%20DC)
 Guia instrutivo que fale sobre cores, imagens, opções e afins. 
 
-
+# O projeto em outras mídias 
 
 ## Idealizadores
 Flávia Pinheiro
