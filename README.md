@@ -32,14 +32,14 @@ Nesse momento precisamos de ajuda para os instrutivos do projeto. Especificament
 
 * [_Regras de participação no evento_](https://github.com/mmfava/ciencianafeira/tree/master/Regras%20de%20participa%C3%A7%C3%A3o%20no%20evento)
 
-* _Código de conduta_
+* [_Código de conduta_](https://github.com/mmfava/ciencianafeira/tree/master/C%C3%B3digo%20de%20conduta)
 
-* _Guia do contribuidor_
+* [_Guia do contribuidor_](https://github.com/mmfava/ciencianafeira/tree/master/Guia%20do%20contribuidor)
 
-* _Como escrever o seu resumo para a inscrição?_
+* [_Como escrever o seu resumo para a inscrição?_](https://github.com/mmfava/ciencianafeira/tree/master/Resumo%20-%20DC)
 Texto básico com dicas de como escrever um pequeno texto de DC sobre a própria pesquisa. 
 
-* _Como montar um pôster para a DC?_
+* [_Como montar um pôster para a DC?_](https://github.com/mmfava/ciencianafeira/tree/master/Poster%20-%20DC
 Guia instrutivo que fale sobre cores, imagens, opções e afins. 
 
 
