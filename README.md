@@ -16,7 +16,7 @@ Sabe quando a gente vai nos eventos acadêmicos (semanas acadêmicas, simpósios
 Para a divulgação de conhecimentos, o pôster deverá contar com ótimas ilustrações, título instigante e conteúdo pensado para diferentes idades dentro do tema de pesquisa do participante. A nossa única regra será lembrar que a apresentação será realizada para leigos nos assuntos, portanto deverá possuir uma linguagem clara e ser o mais didático possível. Quanto mais criativa e visual for a produção dos pôsteres, melhor.
 
 
-## Bakground
+## Background
 Atualmente existem inúmeros pesquisadores e entusiastas da ciência fazendo divulgação científica nos meios de comunicação on-line (Blogs, YouTube e Podcasts são exemplos bem conhecidos). Se você é pesquisador e gosta de ciência, com certeza você os acompanha em alguma mídia. Apesar de sermos fãs desse pessoal, sentimos que o espaço fora do meio virtual  carece de comunicadores, principalmente para o público que possui dificuldades no uso das mídias sociais ou mesmo os que nunca pensaram em utilizá-las para esse fim. Ademais, os consumidores de ciência se concentram em nichos bem específicos, sendo necessárias iniciativas que visem popularizar a ciência nas parcelas com menos acesso a esse tipo de conteúdo (ou menos interesse).
 
 A problemática causada pela ausência da DC é vista nos crescentes cortes que a ciência brasileira vem sofrendo ao longo de governos, bem como a progressão dos grupos pseudocientíficos em nossas comunidades. Assim, a nossa ideia surgiu de uma movimentação coletiva interligada pelas redes sociais e que observou essa necessidade de se divulgar ciência para o público desplugado do universo virtual. 
@@ -30,12 +30,14 @@ O “Ciência na Feira” é um projeto aberto e editável por qualquer um que d
 
 Nesse momento precisamos de ajuda para os instrutivos do projeto. Especificamente:
 
+*_Regras de participação no evento_
+
 * _Código de conduta_
 
 * _Guia do contribuidor_
 
-* _Como escrever um texto de DC?_
-Texto básico com dicas de como mudar de um texto técnico-científico para uma linguagem acessível ao público não científico. 
+* _Como escrever o seu resumo para a inscrição?_
+Texto básico com dicas de como escrever um pequeno texto de DC sobre a própria pesquisa. 
 
 * _Como montar um pôster para a DC?_
 Guia instrutivo que fale sobre cores, imagens, opções e afins. 
