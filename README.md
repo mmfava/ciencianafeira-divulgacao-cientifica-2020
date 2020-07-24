@@ -30,7 +30,7 @@ O “Ciência na Feira” é um projeto aberto e editável por qualquer um que d
 
 Nesse momento precisamos de ajuda para os instrutivos do projeto. Especificamente:
 
-*_Regras de participação no evento_
+* [_Regras de participação no evento_](https://github.com/mmfava/ciencianafeira/tree/master/Regras%20de%20participa%C3%A7%C3%A3o%20no%20evento)
 
 * _Código de conduta_
 
