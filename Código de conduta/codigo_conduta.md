@@ -1,17 +1,17 @@
 # Código de Conduta do Ciência na Feira (CF)
 ## em construção!
 
-<span style="color:red">some **Válido para todas as dimensões desse projeto!** text</span>
-\
+**Válido para todas as dimensões desse projeto!** 
+<br /> 
 
 O CF é um projeto de divulgação cientifica (DC) que visa a boa convivência, a inclusão, não tolera intimidações e pleiteia que toda e qualquer pessoa é bem-vinda. 
-\
+<br /> 
 
 Em razão deste:
-•	Não é tolerado nenhum tipo de assédio, discriminação inapropriada ou humilhação pública;
-•	Não é tolerado o descumprimento das leis brasileiras;
-•	Toda pessoa presente no CF, independente do seu papel, está sujeita a estas regras;
-\
+•	Não é tolerado nenhum tipo de assédio, discriminação inapropriada ou humilhação pública; <br /> 
+•	Não é tolerado o descumprimento das leis brasileiras; <br /> 
+•	Toda pessoa presente no CF, independente do seu papel, está sujeita a estas regras; <br /> 
+<br /> 
 
 Desta forma, é necessário entender que:
 •	Assédio é a ação de insistir, perseguir ou coagir outra pessoa a um comportamento involuntário.
