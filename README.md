@@ -55,4 +55,4 @@ Marília Melo Favalesso
 (outros)
 
 ## Contribuintes
-(lista de contribuintes com o projeto)
+Eu sou a fulana de tal
