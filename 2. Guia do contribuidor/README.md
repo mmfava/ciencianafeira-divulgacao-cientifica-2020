@@ -24,8 +24,6 @@ Realizado o cadastro, já é possível iniciar as suas contribuições!
 
 Primeiro você deve acessar o [nosso repositório (/ciencianafeira)](https://github.com/mmfava/ciencianafeira). 
 
-![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig2_entrada_reposit%C3%B3rio.png)
-
 Você irá perceber que o nosso respositório está organizado em pastas com nomes que correspondem aos assuntos que são passíveis de receber contribuições. A ideia é a de deixar guias e regras prontos para os que queiram realizar o Ciência na Feira em suas respectivas cidades. 
 
 * **1. Código de conduta**: São as regras para contribuição com o proejto (como comentamos), e fica como sugestão para os que desejam realizar um evento de divulgação científica. 
