@@ -29,4 +29,4 @@ Havendo um relato de violação destes princípios, a Equipe de Resposta realiza
 2. https://github.com/rladies/starter-kit/wiki/Code-of-Conduct <br /> 
 3. https://github.com/pythonbrasil/codigo-de-conduta <br /> 
 
-ll
+
