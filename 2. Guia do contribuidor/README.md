@@ -24,7 +24,7 @@ Realizado o cadastro, já é possível iniciar as suas contribuições!
 
 Primeiro você deve acessar o [nosso repositório (/ciencianafeira)](https://github.com/mmfava/ciencianafeira). 
 
-**FIG. 2**
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig2_entrada_reposit%C3%B3rio.png)
 
 Você irá perceber que o nosso respositório está organizado em pastas com nomes que correspondem aos assuntos que são passíveis de receber contribuições. A ideia é a de deixar guias e regras prontos para os que queiram realizar o Ciência na Feira em suas respectivas cidades. 
 
@@ -37,17 +37,19 @@ Você irá perceber que o nosso respositório está organizado em pastas com nom
 
 Para auxiliar na contribuição de qualquer um desses assuntos, inicialmente você precisa acessar a pasta correspondente ao tema de interesse. Nela, você irá encontrar um arquivo em markdown (.md) contendo a nossa guia. Ao acessar o arquivo, você irá se deparar com os textos e imagens correspondentes ao tema que você escolheu contribuir. Para iniciar a edição, é só clicar no desenho de lápis do lado direito da tela. 
 
-**FIG. 3**
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig3_para_editar_site.png)
 
 Como já mencionamos no inicio dessa guia, o GitHub utiliza a linguagem markdown (formato .md) para disponibilizar textos. Markdown é frequentemente utilizado por programadores para formatar arquivos README, para escrever mensagens em fóruns de discussão online e para criar rich text usando um editor de texto simples. Ele converte os textos em html. [Existem milhares de guias disponíveis na internet](https://www.google.com/search?q=guia+markdown&oq=guia+mar&aqs=chrome.0.69i59j69i57j69i60.1480j0j7&sourceid=chrome&ie=UTF-8) e que poderá te auxiliar a entende-la! Diferente das linguagens de programação tradicionais, ela é relativamente simples e fácil de se trabalhar. 
 
-**FIG. 4**
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig4_editor_markdown.png)
 
 Após realizar as suas contribuições nos arquivos de interesse, o próximo passo é realizar um _commit_. Semelhante a salvar um arquivo que foi editado, um commit registra as alterações em um ou mais arquivos em seu [_branch_](https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-branches). Git atribui a cada commit um ID único, chamado SHA ou hash, que identifica: Cada uma das alterações realizadas, o momento em que as alterações foram feitas e o autor das alterações. Ao fazer um _commit_, você deve incluir uma mensagem que descreva brevemente as alterações. Você também pode adicionar um coautor em qualquer commit em que colaborar.
 
-**FIG. 5 **
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig5_commit.png)
 
 Um commite apenas salva as alterações que você realizou, ela não envia o pedido de mudanças para o respositório. Quando você estiver satisfeito com o seu trabalho, você poderá abrir uma _pull request_ para solicitar aos donos do repositório que aceitem as mudanças que você "commitou". Essa opção aparecerá na sequência do _commit_, e ficará a seu critério já envia-lá para o repositório ou continuar trabalhando nas modificações antes do envio. O resultado final das suas modificações só aparecerá no repositório após o aceite dos responsáveis. 
+
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig6_pullrequest.png)
 
 ## Mas o que eu posso fazer pelo projeto?
 
