@@ -47,12 +47,8 @@ XXXXX.
 
 ## Idealizadores
 Flávia Pinheiro
-
-Guilherme Vieira
-
 Marília Melo Favalesso
 
-(outros)
-
 ## Contribuintes
-(lista de contribuintes com o projeto)
+Elizangela Favalesso Fraga
+Guilherme Vieira
