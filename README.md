@@ -47,8 +47,10 @@ XXXXX.
 
 ## Idealizadores
 Flávia Pinheiro
+
 Marília Melo Favalesso
 
 ## Contribuintes
 Elizangela Favalesso Fraga
+
 Guilherme Vieira
