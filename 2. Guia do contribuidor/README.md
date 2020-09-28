@@ -15,7 +15,7 @@ O GitHub é uma plataforma de hospedagem de código-fonte com controle de versã
 
 Inicialmente precisamos realizar um cadastro no GitHub através do link <http://www.github.com>. 
 
-**FIG. 1**
+![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig1_registro_github.png)
 
 O cadastro é relativamente simples de ser feito! Caso tenha algum problema, é só escrever para nós no telegram ou e-mail. 
 Realizado o cadastro, já é possível iniciar as suas contribuições! 
