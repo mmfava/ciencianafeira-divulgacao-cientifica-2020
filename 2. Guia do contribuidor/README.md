@@ -17,21 +17,23 @@ Inicialmente precisamos realizar um cadastro no GitHub através do link <http://
 
 ![](https://github.com/mmfava/ciencianafeira/blob/master/4.%20Imagens%20do%20reposit%C3%B3rio/2/fig1_registro_github.png)
 
-O cadastro é relativamente simples de ser feito! Caso tenha algum problema, é só escrever para nós no telegram ou e-mail. 
+O cadastro é relativamente simples de ser feito. Caso tenha algum problema, é só escrever para nós no [telegram](https://t.me/ciencianafeira). 
 Realizado o cadastro, já é possível iniciar as suas contribuições! 
 
-### Como realizar edições nos arquivos do repositório
+### Como realizar edições nos arquivos do repositório:
 
 Primeiro você deve acessar o [nosso repositório (/ciencianafeira)](https://github.com/mmfava/ciencianafeira). 
 
-Você irá perceber que o nosso respositório está organizado em pastas com nomes que correspondem aos assuntos que são passíveis de receber contribuições. A ideia é a de deixar guias e regras prontos para os que queiram realizar o Ciência na Feira em suas respectivas cidades. 
+Você irá perceber que o nosso respositório está organizado em pastas com nomes que correspondem aos assuntos que são passíveis de receber contribuições. A nossa ideia é a de deixar as _guias (escrita e pôster)_ e _regras de participação_ para os eventos presenciais prontas, para as pessoas que pretendem realizar o Ciência na Feira. 
 
-* **1. Código de conduta**: São as regras para contribuição com o proejto (como comentamos), e fica como sugestão para os que desejam realizar um evento de divulgação científica. 
-* **2. Guia do contribuidor**: É justamente essa página que você está lendo nesse momento! 
-* **3.1 Regras de participação no evento**: São as sugestões de regras que poderão ser utilizadas nos eventos presenciais. 
-* **3.2 Guia para o pôster de DC**: É o guia para auxiliar os participantes dos eventos presenciais na concepção do pôster voltado para a divulgação científica. 
-* **3.3 Guia para escrever texto em DC**: É o guia para auxiliar os participantes a montar textos/resumos sobre suas pesquisas em uma linguagem voltada para a DC. 
-* **4. Imagens do respositório**: {c:red} Essa parte é bem importante!{/c} [Para incluir imagens no respositório, é necessário que a mesma esteja presente em alguma página](https://www.it-swarm-pt.tech/pt/git/adicionar-imagens-ao-readme.md-no-github/1071767059/). Assim que, para incluir imagens nas guias aqui do repositório, primeiro eu carrego elas nas pastinhas e depois cópio o endereço html delas para incluir nas guias. 
+Na sequência fica uma breve descrição de cada conteúdo do repositório:
+
+* **1. [Código de conduta](https://github.com/mmfava/ciencianafeira/tree/master/1.%20C%C3%B3digo%20de%20conduta)**: São as regras para contribuição com o projeto (já comentado), e fica como sugestão para uso nos eventos presenciais.  
+* **2. [Guia do contribuidor](https://github.com/mmfava/ciencianafeira/tree/master/2.%20Guia%20do%20contribuidor)**: É justamente essa página que você está lendo nesse momento! 
+* **3.1 [Regras de participação no evento](https://github.com/mmfava/ciencianafeira/tree/master/3.1.%20Regras%20de%20participa%C3%A7%C3%A3o%20no%20evento)**: São as sugestões de regras que poderão ser utilizadas nos eventos presenciais. 
+* **3.2 [Guia para o pôster de DC](https://github.com/mmfava/ciencianafeira/tree/master/3.2.%20Guia%20para%20o%20p%C3%B4ster%20de%20DC)**: É o guia para auxiliar os participantes dos eventos presenciais na concepção do pôster voltado para a divulgação científica. 
+* **3.3 [Guia para escrever texto em DC](https://github.com/mmfava/ciencianafeira/tree/master/3.3.%20Guia%20para%20escrever%20texto%20de%20DC)**: É o guia para auxiliar os participantes a montar textos/resumos sobre suas pesquisas em uma linguagem voltada para a DC. 
+* **4. [Imagens do respositório](https://github.com/mmfava/ciencianafeira/tree/master/4.%20Imagens%20do%20reposit%C3%B3rio)**: {c:red} Essa parte é bem importante!{/c} [Para incluir imagens no respositório, é necessário que a mesma esteja presente em alguma página](https://www.it-swarm-pt.tech/pt/git/adicionar-imagens-ao-readme.md-no-github/1071767059/). Assim que, para incluir imagens nas guias aqui do repositório, primeiro eu carrego elas nas pastinhas e depois cópio o endereço html delas para incluir nas guias. 
 
 Para auxiliar na contribuição de qualquer um desses assuntos, inicialmente você precisa acessar a pasta correspondente ao tema de interesse. Nela, você irá encontrar um arquivo em markdown (.md) contendo a nossa guia. Ao acessar o arquivo, você irá se deparar com os textos e imagens correspondentes ao tema que você escolheu contribuir. Para iniciar a edição, é só clicar no desenho de lápis do lado direito da tela. 
 
